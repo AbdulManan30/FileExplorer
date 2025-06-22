@@ -12,10 +12,7 @@ A clean and responsive **VS Code-like File Explorer** built with **React.js**. T
 - CSS / Tailwind CSS (if used)
 
 ## 🌐 Live Demo
-[View Live](https://your-live-link.vercel.app)
-
-## 📸 Preview
-![Screenshot](your-screenshot-url)
+[View Live](https://file-explorer-sepia.vercel.app/)
 
 ---
 
