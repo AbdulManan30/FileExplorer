@@ -1,8 +1,24 @@
-# React + Vite
+# 📁 VS Code Style File Explorer (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive **VS Code-like File Explorer** built with **React.js**. This project replicates the intuitive folder navigation system of Visual Studio Code.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Dynamic folder & file rendering
+- Expand/collapse directory structure
+- Built using modern React concepts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Tech Stack
+- React.js
+- CSS / Tailwind CSS (if used)
+
+## 🌐 Live Demo
+[View Live](https://your-live-link.vercel.app)
+
+## 📸 Preview
+![Screenshot](your-screenshot-url)
+
+---
+
+> 💡 Useful for learning nested data rendering, component trees, and UI design in React.
+
+⭐ Star this repo if you find it helpful!
